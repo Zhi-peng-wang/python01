@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<school type="online" loc="wuxi">
+
+    <Student type="web">
+        <name>
+            haha
+        </name>
+        <age>18</age>
+    </Student>
+
+    <Student>
+        <name>haha</name>
+        <age>18</age>
+    </Student>
+
+    <Student>
+        <name>haha</name>
+        <age>18</age>
+    </Student>
+
+</school>

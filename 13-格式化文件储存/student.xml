@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<school type="online" loc="wuxi">
+
+    <Teaacher desc="pyhtonteacher">
+        <Name>wzp</Name>
+        <Age detail="Age for year 2010">18</Age>
+        <Mobile>17605272162</Mobile>
+    </Teaacher>
+
+    <Student>
+        <name Other="他是班长">zhangsan</name>
+        <Age>18</Age>
+    </Student>
+
+    <Student>
+        <Name>lisi</Name>
+        <Age>18</Age>
+        <Mobile>123456789</Mobile>
+    </Student>
+
+</school>
